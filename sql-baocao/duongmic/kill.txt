@@ -1,0 +1,15 @@
+select   c.owner,   c.object_name,   c.object_type,   b.sid,   b.serial#, D.object_name PROC_RUN,
+b.status,b.osuser,b.machine,
+'ALTER SYSTEM KILL SESSION ''' || b.sid || ', ' || b.serial# || ''';' AS KILL_COMMAND
+from  v$locked_object a ,   v$session b,   dba_objects c,dba_objects D
+where b.sid = a.session_id and a.object_id = c.object_id
+AND B.plsql_entry_object_id=D.object_id
+and b.status='ACTIVE'
+/
+
+SELECT 'ALTER SYSTEM KILL SESSION ''' || s.sid || ',' || s.serial# || ''';'
+FROM v$session s
+JOIN v$tempseg_usage t ON s.saddr = t.session_addr
+WHERE t.username='BH_DEV' and t.tablespace IN (
+SELECT tablespace_name FROM dba_tablespaces WHERE contents = 'TEMPORARY'
+);

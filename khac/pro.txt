@@ -1,0 +1,54 @@
+@ e:\wbh\sql\baohiem\bh_pql.sql;
+@ e:\wbh\sql\baohiem\bh_hd_goc.sql;
+@ e:\wbh\sql\baohiem\bh_hd_huy.sql;
+@ e:\wbh\sql\baohiem\bh_hd_dkbs.sql;
+@ e:\wbh\sql\baohiem\bh_hd_do.sql;
+@ e:\wbh\sql\baohiem\bh_hd_hh.sql;
+@ e:\wbh\sql\baohiem\bh_hd_tt.sql;
+@ e:\wbh\sql\baohiem\bh_hd_vat.sql;
+@ e:\wbh\sql\baohiem\bh_khac.sql;
+@ e:\wbh\sql\baohiem\bh_khcn.sql;
+
+@ e:\wbh\sql\baohiem\bh_2bl.sql;
+@ e:\wbh\sql\baohiem\bh_2b.sql;
+@ e:\wbh\sql\baohiem\bh_hang.sql;
+@ e:\wbh\sql\baohiem\bh_nguoi.sql;
+@ e:\wbh\sql\baohiem\bh_phh.sql;
+@ e:\wbh\sql\baohiem\bh_pkt.sql;
+@ e:\wbh\sql\baohiem\bh_pql.sql;
+@ e:\wbh\sql\baohiem\bh_ptn.sql;
+@ e:\wbh\sql\baohiem\bh_tau.sql;
+@ e:\wbh\sql\baohiem\bh_tau_pql.sql;
+@ e:\wbh\sql\baohiem\bh_taul.sql;
+@ e:\wbh\sql\baohiem\bh_xe.sql;
+@ e:\wbh\sql\baohiem\bh_xe_pql.sql;
+@ e:\wbh\sql\baohiem\bh_xel.sql;
+
+@ e:\wbh\sql\baohiem\bh_bt.sql;
+@ e:\wbh\sql\baohiem\bh_bt_gd.sql;
+@ e:\wbh\sql\baohiem\bh_bt_hk.sql;
+@ e:\wbh\sql\baohiem\bh_bt_ntba.sql;
+@ e:\wbh\sql\baohiem\bh_bt_tb.sql;
+@ e:\wbh\sql\baohiem\bh_bt_thoi.sql;
+@ e:\wbh\sql\baohiem\bh_bt_ttt.sql;
+@ e:\wbh\sql\baohiem\bh_cp.sql;
+@ e:\wbh\sql\baohiem\bh_dlcn_p.sql;
+@ e:\wbh\sql\baohiem\bh_don.sql;
+
+@ e:\wbh\sql\baohiem\tbh_cbi.sql;
+@ e:\wbh\sql\baohiem\tbh_tim_tai_ve nhan.sql;
+@ e:\wbh\sql\baohiem\tbh_cn.sql;
+@ e:\wbh\sql\baohiem\tbh_cp.sql;
+@ e:\wbh\sql\baohiem\tbh_ghep.sql;
+@ e:\wbh\sql\baohiem\tbh_kh.sql;
+@ e:\wbh\sql\baohiem\tbh_mgiu.sql;
+@ e:\wbh\sql\baohiem\tbh_pql.sql;
+@ e:\wbh\sql\baohiem\tbh_ps.sql;
+@ e:\wbh\sql\baohiem\tbh_tm.sql;
+@ e:\wbh\sql\baohiem\tbh_ve.sql;
+@ e:\wbh\sql\baohiem\tbh_xly.sql;
+
+@ e:\wbh\sql\baohiem\bh_kt.sql;
+@ e:\wbh\sql\baohiem\bh_nsd.sql;
+
+@ e:\wbh\sql\baohiem\bh_ke.sql;
